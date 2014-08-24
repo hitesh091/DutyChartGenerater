@@ -8,3 +8,9 @@ Basically, it's an automatic schedule generator for chauffers in an organisation
   -> The schedule must be kept fixed for at least a week, like if a person works in first shift then he has to work the whole week in       this time slot only.
   -> Schedule have to be changed every week.
   -> Each person had to be given 1 day leave other than national holidays.
+  
+  
+To implement this, the UI is implemented in HTML, CSS and PHP , and the database part is connected through MySQL commands.
+
+So now to generate the chart, you just need to sign up first on the website and then login. Click the 'Generate duty chart' link and you are done!!
+
